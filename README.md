@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indroneel-roy
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Audio Signal Processing
+- 🌱 I’m currently PyTorch for Deep Learning and Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me indroneel1000@gmail.com
 

@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Indroneel Roy</h1>
 <h3 align="center">"Machine Learning Enthusiast | Computer Vision Learner | DSA Problem Solver"</h3>
 
-<img src="gift.png" width="400" alt="Neural Network Animation">
+<p align="center">
+  <img src="gift.png" width="500" alt="Neural Network Animation">
+</p>
+
 
 
 - 🔭 I’m currently working on [Brain Tumor Classification](https://github.com/Indroneel-roy/brain-tumor-classification-vit)

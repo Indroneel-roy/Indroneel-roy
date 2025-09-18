@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Indroneel Roy 👋  
 
-<!--
-**Indroneel-roy/Indroneel-roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Machine Learning Enthusiast** | 🤖 **Computer Vision Explorer** | 💻 **DSA Problem Solver**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **ML/DL:** PyTorch, TensorFlow  
+- **Data:** Pandas, NumPy  
+- **Computer Vision:** OpenCV  
+- **Backend & Deployment:** FastAPI, Docker  
+- **DSA Practice:** LeetCode (Blind 75 & beyond)  
+
+---
+
+## 📊 GitHub Stats  
+![Indroneel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndroneelRoy&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndroneelRoy&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌍 Connect With Me  
+- 📫 Email: **[your email here]**  
+- 💼 LinkedIn: [Your LinkedIn](#)  
+- 🏆 LeetCode: [Your LeetCode](#)  
+
+---
+
+⭐ From [IndroneelRoy](https://github.com/IndroneelRoy)

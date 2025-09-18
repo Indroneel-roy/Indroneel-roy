@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indroneel Roy</h1>
 <h3 align="center">"Machine Learning Enthusiast | Computer Vision Learner | DSA Problem Solver"</h3>
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/v2/resize:fit:640/format:webp/1*82NoZku9Ki3F-AM6U7TORA.gif)"
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://miro.medium.com/v2/resize:fit:640/format:webp/1*82NoZku9Ki3F-AM6U7TORA.gif)">
 
 - 🔭 I’m currently working on [Brain Tumor Classification](https://github.com/Indroneel-roy/brain-tumor-classification-vit)
 

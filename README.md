@@ -163,34 +163,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indroneel-roy&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:indroneel1000@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://scholar.google.com/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>"Research is seeing what everybody else has seen and thinking what nobody else has thought." 🔬</i>
-</p>
-
----
-
 <p align="center">
   ⭐ <b>If you find my work useful, consider starring my repositories!</b> ⭐
 </p>

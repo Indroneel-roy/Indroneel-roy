@@ -5,7 +5,7 @@
 <h3 align="center">🧠 ML Engineer · 🔬 Computer Vision Researcher · 📄 Paper Implementer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/indroneel68/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:indroneel1000@gmail.com">

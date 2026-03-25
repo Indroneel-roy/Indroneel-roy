@@ -8,13 +8,10 @@
   <a href="https://www.linkedin.com/in/indroneel68/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="indroneel1000@gmail.com">
+  <a href="mailto:indroneel1000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://scholar.google.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <a href="https://indroneel-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=indroneel-roy&label=Profile+Views&color=6E40C9&style=for-the-badge"/>

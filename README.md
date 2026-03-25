@@ -22,22 +22,22 @@
 ## 👨‍🔬 About Me
 
 ```python
-class IndronEelRoy:
+class IndroneelRoy:
     def __init__(self):
         self.name         = "Indroneel Roy"
         self.role         = "ML Engineer & Computer Vision Researcher"
-        self.university   = "YOUR UNIVERSITY NAME"          # 👈 Add your university
-        self.research     = ["Computer Vision", "Medical Imaging", "Generative AI"]
+        self.university   = "Shahjalal University of Science and Technology (SUST)"
+        self.research     = ["Computer Vision", "Medical Image Segmentation", "Generative AI"]
         self.engineering  = ["Deep Learning Systems", "Model Deployment", "MLOps"]
-        self.currently_on = "Brain Tumor Classification using Vision Transformers"
-        self.learning     = ["LLMs", "Diffusion Models", "Prompt Engineering"]
+        self.currently_on = "Exploring different Transformer Attention mechanisms for segmentation"
+        self.learning     = ["LLMs", "Diffusion Models", "Self-Supervised Learning (SSL)"]
         self.open_to      = ["Research Collaborations", "Industry Roles", "MS/PhD Programs"]
         self.fun_fact     = "Started with electronics → fell in love with ML ⚡"
 
     def say_hi(self):
         print("Open to research collabs & industry roles. Let's build something impactful!")
 
-me = IndronEelRoy()
+me = IndroneelRoy()
 me.say_hi()
 ```
 

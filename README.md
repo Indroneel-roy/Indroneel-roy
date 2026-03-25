@@ -121,9 +121,9 @@ me.say_hi()
 
 | Architecture | Category | Implementation | Status |
 |---|---|---|---|
-| LeNet, AlexNet, ResNet, DenseNet, EfficientNet | CNN Architectures | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
-| Transformer, Swin Transformer, TransUNet | Transformer-Based Models | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
-| U-Net, SegFormer, MaskFormer | Image Segmentation | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
+| LeNet, AlexNet, ResNet, DenseNet, EfficientNet | CNN Architectures | [Code](https://github.com/Indroneel-roy/Computer-Vision) | ✅ Complete |
+| Transformer, Swin Transformer, TransUNet | Transformer-Based Models | [Code](https://github.com/Indroneel-roy/Computer-Vision) | ✅ Complete |
+| U-Net, SegFormer, MaskFormer | Image Segmentation | [Code](https://github.com/Indroneel-roy/Computer-Vision) | ✅ Complete |
 
 ---
 

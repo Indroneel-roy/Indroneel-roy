@@ -1,39 +1,44 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Indroneel+Roy;ML+Engineer+%7C+Computer+Vision;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Indroneel+Roy;ML+Engineer+%7C+Computer+Vision+Researcher;Building+%26+Publishing+Intelligent+Systems" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🧠 Machine Learning Engineer · Computer Vision · Generative AI</h3>
+<h3 align="center">🧠 ML Engineer · 🔬 Computer Vision Researcher · 📄 Paper Implementer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:indroneel1000@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Indroneel-roy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://scholar.google.com/YOUR_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=indroneel-roy&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=indroneel-roy&label=Profile+Views&color=6E40C9&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍🔬 About Me
 
 ```python
 class IndronEelRoy:
     def __init__(self):
-        self.name        = "Indroneel Roy"
-        self.role        = "Machine Learning Engineer"
-        self.focus       = ["Computer Vision", "Deep Learning", "Generative AI"]
-        self.currently   = "Brain Tumor Classification using Vision Transformers"
-        self.learning    = ["LLMs", "Diffusion Models", "Prompt Engineering"]
-        self.collaborate = "Computer Vision Applications"
-        self.fun_fact    = "Started with electronics → fell in love with ML ⚡"
+        self.name         = "Indroneel Roy"
+        self.role         = "ML Engineer & Computer Vision Researcher"
+        self.university   = "YOUR UNIVERSITY NAME"          # 👈 Add your university
+        self.research     = ["Computer Vision", "Medical Imaging", "Generative AI"]
+        self.engineering  = ["Deep Learning Systems", "Model Deployment", "MLOps"]
+        self.currently_on = "Brain Tumor Classification using Vision Transformers"
+        self.learning     = ["LLMs", "Diffusion Models", "Prompt Engineering"]
+        self.open_to      = ["Research Collaborations", "Industry Roles", "MS/PhD Programs"]
+        self.fun_fact     = "Started with electronics → fell in love with ML ⚡"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together 🤖")
+        print("Open to research collabs & industry roles. Let's build something impactful!")
 
 me = IndronEelRoy()
 me.say_hi()
@@ -41,12 +46,56 @@ me.say_hi()
 
 ---
 
-## 🔭 Current Focus
+## 🔬 Research Interests
 
-- 🧬 Working on **[Brain Tumor Classification using ViT](https://github.com/Indroneel-roy/brain-tumor-classification-vit)**
-- 📚 Deep diving into **Generative AI** — LLMs, Diffusion Models, Prompt Engineering
-- 🤝 Open to collaborate on **Computer Vision** projects
-- 💬 Ask me about **Machine Learning & Deep Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-6E40C9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Medical%20Imaging-E74C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision%20Transformers-2ECC71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-F39C12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-3498DB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Diffusion%20Models-1ABC9C?style=for-the-badge"/>
+</p>
+
+---
+
+## 📄 Publications & Research
+
+> 🚧 *Working on first publication — details coming soon!*
+
+<!-- Once you have papers, use this format:
+### 📰 [Paper Title](https://arxiv.org/YOUR_PAPER)
+**Indroneel Roy**, Co-Author Name · *Conference/Journal Name, Year*
+
+> Short 1-2 line abstract of what the paper is about.
+
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red?style=flat-square)](https://arxiv.org/YOUR_PAPER)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github)](https://github.com/Indroneel-roy/YOUR_REPO)
+[![Dataset](https://img.shields.io/badge/Dataset-Available-green?style=flat-square)](YOUR_DATASET_LINK)
+-->
+
+---
+
+## 🧪 Research & Featured Projects
+
+### 🧠 [Brain Tumor Classification using Vision Transformers](https://github.com/Indroneel-roy/brain-tumor-classification-vit)
+> MRI-based brain tumor detection and classification leveraging Vision Transformer (ViT) architecture for high-accuracy medical image analysis.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ViT](https://img.shields.io/badge/Vision%20Transformer-6E40C9?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-E74C3C?style=flat-square)
+
+---
+
+### 📚 Paper Implementations
+
+> Reproducible implementations of influential ML/CV research papers:
+
+| Paper | Original Authors | My Implementation | Status |
+|-------|-----------------|-------------------|--------|
+| *(Add paper name)* | *(Authors)* | [Code](https://github.com/Indroneel-roy) | 🚧 In Progress |
+| *(Add paper name)* | *(Authors)* | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
 
 ---
 
@@ -57,12 +106,13 @@ me.say_hi()
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### 🤖 ML / AI Frameworks
+### 🤖 ML / AI / Research Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### ☁️ Tools & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -76,12 +126,11 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indroneel-roy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indroneel-roy&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=indroneel-roy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indroneel-roy&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indroneel-roy&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indroneel-roy&theme=tokyonight&hide_border=true&layout=compact" width="48%"/>
 </p>
 
 ---
@@ -89,28 +138,31 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=indroneel-roy&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=indroneel-roy&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🧠 [Brain Tumor Classification](https://github.com/Indroneel-roy/brain-tumor-classification-vit) | MRI-based tumor classification using Vision Transformers | PyTorch, ViT, OpenCV |
-| 🔬 *(Add your next project)* | *(Short description)* | *(Tech used)* |
-| 🤖 *(Add your next project)* | *(Short description)* | *(Tech used)* |
-
----
-
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:indroneel1000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:indroneel1000@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <i>"The best way to predict the future is to create it — with intelligent systems." 🤖</i>
+  <i>"Research is seeing what everybody else has seen and thinking what nobody else has thought." 🔬</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>If you find my work useful, consider starring my repositories!</b> ⭐
 </p>

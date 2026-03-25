@@ -75,13 +75,43 @@ me.say_hi()
 
 ## 🧪 Research & Featured Projects
 
-### 🧠 [Brain Tumor Classification using Vision Transformers](https://github.com/Indroneel-roy/brain-tumor-classification-vit)
-> MRI-based brain tumor detection and classification leveraging Vision Transformer (ViT) architecture for high-accuracy medical image analysis.
+### 🫀 [HybridCNN Polyp Segmentation](https://github.com/Indroneel-roy/HybridCNN-Polyp-Segmentation)
+> Hybrid CNN-Transformer architecture integrating ResNet-50 encoder with multihead self-attention mechanisms. Features a novel cross-attention fusion module combining local CNN features with global Transformer representations for precise polyp boundary delineation.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet--50-6E40C9?style=flat-square)
+![Transformer](https://img.shields.io/badge/Transformer%20Attention-2ECC71?style=flat-square)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-E74C3C?style=flat-square)
+
+---
+
+### 🌾 [Vision-Based Wheat Detection](https://github.com/Indroneel-roy/Vision-Based-Wheat-Detection)
+> YOLOv11-Medium model trained on 29,422+ annotated wheat instances. Achieved **94.7% mAP@50**, 91.7% precision, and 89.2% recall.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-F39C12?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-3498DB?style=flat-square)
+
+---
+
+### 🤖 [Agentflow Chatbot — Multi-Tool Conversational AI](https://github.com/Indroneel-roy/Agentflow-Chatbot)
+> Stateful conversational AI using LangGraph state machine architecture with SQLite checkpointing. Integrates 10+ tools including web search, financial APIs (Alpha Vantage, CoinGecko), and weather services. Powered by Groq LLM (Llama-3.3-70B).
+
+![LangChain](https://img.shields.io/badge/LangChain-1ABC9C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=flat-square)
+![LLM](https://img.shields.io/badge/Llama--3.3--70B-F39C12?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-E74C3C?style=flat-square)
+
+---
+
+### 🌿 [Cassava Leaf Disease Classification (ViT)](https://github.com/Indroneel-roy/Cassava-Leaf-Disease-ViT)
+> Vision Transformer (ViT-Base) for multi-class plant disease classification across 5 categories. Achieved **87.15% validation accuracy**, 93.4% precision and 95.6% recall for Cassava Mosaic Disease (CMD).
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ViT](https://img.shields.io/badge/Vision%20Transformer-6E40C9?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-E74C3C?style=flat-square)
+![timm](https://img.shields.io/badge/timm-2ECC71?style=flat-square)
+![Kaggle](https://img.shields.io/badge/Kaggle%20Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 ---
 
@@ -89,10 +119,11 @@ me.say_hi()
 
 > Reproducible implementations of influential ML/CV research papers:
 
-| Paper | Original Authors | My Implementation | Status |
-|-------|-----------------|-------------------|--------|
-| *(Add paper name)* | *(Authors)* | [Code](https://github.com/Indroneel-roy) | 🚧 In Progress |
-| *(Add paper name)* | *(Authors)* | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
+| Architecture | Category | Implementation | Status |
+|---|---|---|---|
+| LeNet, AlexNet, ResNet, DenseNet, EfficientNet | CNN Architectures | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
+| Transformer, Swin Transformer, TransUNet | Transformer-Based Models | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
+| U-Net, SegFormer, MaskFormer | Image Segmentation | [Code](https://github.com/Indroneel-roy) | ✅ Complete |
 
 ---
 

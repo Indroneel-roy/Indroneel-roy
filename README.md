@@ -75,6 +75,28 @@ me.say_hi()
 
 ## 🧪 Research & Featured Projects
 
+### 🧬 [MSHFNet — Multi-Scale Hybrid Fusion Network](https://github.com/Indroneel-roy/MSHFNet)
+> Dual-pathway medical image segmentation architecture bridging CNNs (ResNet-50) and Vision Transformers (Swin-Base) via a novel bidirectional **Cross-Attention Fusion Module (CAFM)**, fused at four hierarchical scales with a shared decoder and deep supervision. Achieves **79.73% DSC** on the Synapse multi-organ CT benchmark (SOTA 81.47% DSC on pancreas) and **93.76% DSC** on ACDC cardiac MRI.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Swin Transformer](https://img.shields.io/badge/Swin--Base-6E40C9?style=flat-square)
+![ResNet-50](https://img.shields.io/badge/ResNet--50-2ECC71?style=flat-square)
+![Cross-Attention](https://img.shields.io/badge/Cross--Attention%20Fusion-F39C12?style=flat-square)
+![Medical Imaging](https://img.shields.io/badge/Multi--Organ%20CT%20Segmentation-E74C3C?style=flat-square)
+
+---
+
+### 🌀 [EdgeMambaFormer](https://github.com/Indroneel-roy/EdgeMambaFormer)
+> Tri-hybrid **CNN + Mamba (selective SSM) + Transformer** architecture for colonoscopy polyp segmentation, built on a PVT v2-B2 encoder (~25.4M params). Combines a wavelet-based edge attention gate, a linear-complexity Cross-Scale Mamba Module, and a dual-branch (local + global) transformer decoder. Reaches **0.935 mDice / 0.884 mIoU** on Kvasir-SEG and up to **0.941 mDice** on CVC-ClinicDB, outperforming U-Net, PraNet, and Polyp-PVT baselines. Full write-up included as an accompanying paper.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Mamba SSM](https://img.shields.io/badge/Mamba%20%28S6%29-6E40C9?style=flat-square)
+![PVT v2](https://img.shields.io/badge/PVT%20v2--B2-2ECC71?style=flat-square)
+![Wavelet Attention](https://img.shields.io/badge/Wavelet%20Edge%20Attention-F39C12?style=flat-square)
+![Medical Imaging](https://img.shields.io/badge/Polyp%20Segmentation-E74C3C?style=flat-square)
+
+---
+
 ### 🫀 [HybridCNN Polyp Segmentation](https://github.com/Indroneel-roy/HybridCNN-Polyp-Segmentation)
 > Hybrid CNN-Transformer architecture integrating ResNet-50 encoder with multihead self-attention mechanisms. Features a novel cross-attention fusion module combining local CNN features with global Transformer representations for precise polyp boundary delineation.
 

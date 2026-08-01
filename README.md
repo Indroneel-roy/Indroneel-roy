@@ -11,7 +11,7 @@
   <a href="mailto:indroneel1000@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://indroneel-portfolio.netlify.app/" target="_blank">
+  <a href="https://https://indroneel-roy.github.io//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=indroneel-roy&label=Profile+Views&color=6E40C9&style=for-the-badge"/>
